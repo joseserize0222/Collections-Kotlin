@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-03-25T21:07:31" hostname="Serizes-MacBook-Pro.local" time="0.055">
+  <properties/>
+  <testcase name="generateSetOfDucksMethodTest()" classname="Test" time="0.029"/>
+  <testcase name="removeRandomDuckFromListMethodTest()" classname="Test" time="0.005"/>
+  <testcase name="divideDucksIntoKotlinAndNonKotlinMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="addRandomDuckListMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="generateListOfDucksMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="generateMapOfDucksMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="deleteDucksWithoutKotlinStuffCollectionMethodTest()" classname="Test" time="0.0"/>
+  <testcase name="deleteDucksWithoutKotlinStuffMapMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="addRandomDuckMapMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="addRandomDuckSetMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="generateRandomDuckMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="removeRandomDuckFromMapMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="shuffleDucksMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="removeRandomDuckFromSetMethodTest()" classname="Test" time="0.001"/>
+  <testcase name="sortDucksMethodTest()" classname="Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

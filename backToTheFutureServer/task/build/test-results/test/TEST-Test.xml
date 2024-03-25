@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-03-25T23:23:54" hostname="Serizes-MacBook-Pro.local" time="0.175">
+  <properties/>
+  <testcase name="getCommandTestMethodBaseTest()" classname="Test" time="0.015"/>
+  <testcase name="getCommandTestMethodStackTest()" classname="Test" time="0.002"/>
+  <testcase name="commandFieldTest()" classname="Test" time="0.013"/>
+  <testcase name="getCommandTestMethodQueueTest()" classname="Test" time="0.001"/>
+  <testcase name="addCommandTestMethodTest()" classname="Test" time="0.002"/>
+  <testcase name="gameServiceTestClassTest()" classname="Test" time="0.142"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
